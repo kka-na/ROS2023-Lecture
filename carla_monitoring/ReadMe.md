@@ -2,7 +2,7 @@
 
 Monitoring using CARLA Simulator's Camera Sensor
 
-[![ROS 2023 Technical Lab Test Video](http://img.youtube.com/vi/Nvdjumb5KJM/0.jpg)](https://youtu.be/Nvdjumb5KJM)
+[![ROS 2023 Technical Lab Test Video](http://img.youtube.com/vi/QpeskhZzgaE/0.jpg)](https://youtu.be/QpeskhZzgaE)
 
 **Environment**
 
